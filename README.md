@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/MEET2231/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/MEET2231/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/MEET2231/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [1020-number-of-enclaves](https://github.com/MEET2231/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/MEET2231/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/MEET2231/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/MEET2231/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/MEET2231/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/MEET2231/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [1020-number-of-enclaves](https://github.com/MEET2231/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 ## Union-Find
@@ -47,9 +49,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/MEET2231/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/MEET2231/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/MEET2231/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/MEET2231/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
