@@ -3,24 +3,34 @@ public:
     int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) {
         vector<vector<pair<int,int>>> adj(n);
         for(auto &f : flights) adj[f[0]].push_back({f[1],f[2]});
-        priority_queue<tuple<int,int,int>,vector<tuple<int,int,int>>,greater<>> pq;
+        vector<int> dist(n,INT_MAX);
+        dist[src] = 0;
 
-        vector<int> min_stops(n,INT_MAX);
-        pq.push({0,src,0});
-        while(!pq.empty())
+        queue<pair<int,int>> q;
+        q.push({src,0});
+
+        int flights_taken = 0;
+
+        while(!q.empty() && flights_taken <= k)
         {
-            auto [cost,u,stops] = pq.top();
-            pq.pop();
-            if(u == dst) return cost;
-            if(stops >= min_stops[u]) continue;
-            min_stops[u] = stops;
-            if(stops > k) continue;
-            for(auto & [v,wt] : adj[u])
+            int sz = q.size();
+            while(sz--)
             {
-                pq.push({cost+wt,v,stops+1});
+                auto [u,cost] = q.front();
+                q.pop();
+                
+                for(auto & [v,wt] : adj[u])
+                {
+                    if(cost + wt < dist[v])
+                    {
+                        dist[v] = cost + wt;
+                        q.push({v,dist[v]});
+                    }
+                }
             }
+            flights_taken++;
         }
-        return -1;
+        return dist[dst] == INT_MAX ? -1 : dist[dst];
 
         
     }
