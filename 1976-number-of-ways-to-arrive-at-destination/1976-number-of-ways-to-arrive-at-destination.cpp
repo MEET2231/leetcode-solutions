@@ -21,7 +21,7 @@ public:
         {
             auto node = pq.top();
             pq.pop();
-            if(node[0] > time[node[1]]) continue;
+            // if(node[0] > time[node[1]]) continue;
 
             for(auto & i : adj[node[1]])
             {
