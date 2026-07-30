@@ -1,43 +1,29 @@
 class Solution {
 public:
+    int findParent(int i,vector<int> & parent)
+    {
+        if(parent[i] == i) return i;
+        return parent[i] = findParent(parent[i],parent);
+    }
     int makeConnected(int n, vector<vector<int>>& connections) {
-        if(connections.size() < n-1 ) return -1;
-        vector<vector<int>>adj(n);
-        int count = 0;
-        for(auto c : connections)
-        {
-            int i = c[0];
-            int j = c[1];
-            adj[i].push_back(j);
-            adj[j].push_back(i);
-        }
-        vector<bool> visited(n,false);
-        int connected_comp = 0;
+        if(connections.size() < n-1) return -1;
+        vector<int> parent(n);
         for(int i = 0;i<n;i++)
-        {   
-            if(!visited[i])
-            {
-                connected_comp++;
-                queue<int> q;
-                q.push(i);
-                visited[i] = true;
-                while(!q.empty())
-                {
-                    int u = q.front();q.pop();
-                    for(auto v : adj[u])
-                    {
-                        if(!visited[v])
-                        {
-                            visited[v] = true;
-                            q.push(v);
-                        } 
-                    }
-                }
-            }
+        {
+            parent[i] = i;
         }
-        return connected_comp - 1;
+        int components = n;
+        for(auto & conn : connections)
+        {
+            int u = findParent(conn[0],parent);
+            int v = findParent(conn[1],parent);
+
+            if(u == v) continue;
+            parent[u] = v;
+            components--;
+        }
+        return components-1;
 
 
-        
     }
 };
