@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/MEET2231/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0721-accounts-merge](https://github.com/MEET2231/leetcode-solutions/tree/master/0721-accounts-merge) |
+| [0827-making-a-large-island](https://github.com/MEET2231/leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/MEET2231/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MEET2231/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/MEET2231/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/MEET2231/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MEET2231/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/MEET2231/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/MEET2231/leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/MEET2231/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/MEET2231/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/MEET2231/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/MEET2231/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MEET2231/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/MEET2231/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/MEET2231/leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/MEET2231/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MEET2231/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/MEET2231/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -44,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/MEET2231/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0721-accounts-merge](https://github.com/MEET2231/leetcode-solutions/tree/master/0721-accounts-merge) |
+| [0827-making-a-large-island](https://github.com/MEET2231/leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/MEET2231/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/MEET2231/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/MEET2231/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -52,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/MEET2231/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0827-making-a-large-island](https://github.com/MEET2231/leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/MEET2231/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MEET2231/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/MEET2231/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
