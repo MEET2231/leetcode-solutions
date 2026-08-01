@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/MEET2231/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/MEET2231/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0399-evaluate-division](https://github.com/MEET2231/leetcode-solutions/tree/master/0399-evaluate-division) |
+| [0680-valid-palindrome-ii](https://github.com/MEET2231/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0721-accounts-merge](https://github.com/MEET2231/leetcode-solutions/tree/master/0721-accounts-merge) |
 ## Backtracking
 |  |
@@ -150,5 +151,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0680-valid-palindrome-ii](https://github.com/MEET2231/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0765-couples-holding-hands](https://github.com/MEET2231/leetcode-solutions/tree/master/0765-couples-holding-hands) |
+## Two Pointers
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/MEET2231/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
