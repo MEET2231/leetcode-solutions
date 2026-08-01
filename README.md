@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MEET2231/leetcode-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/MEET2231/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0200-number-of-islands](https://github.com/MEET2231/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/MEET2231/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0643-maximum-average-subarray-i](https://github.com/MEET2231/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -154,11 +155,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MEET2231/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/MEET2231/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0765-couples-holding-hands](https://github.com/MEET2231/leetcode-solutions/tree/master/0765-couples-holding-hands) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MEET2231/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/MEET2231/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 ## Sliding Window
 |  |
