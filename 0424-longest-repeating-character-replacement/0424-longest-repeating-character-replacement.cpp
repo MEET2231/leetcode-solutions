@@ -14,10 +14,12 @@ public:
         int n = s.size();
         int left = 0,right = 0;
         int Max_size = 0;
+        int MaxFreq = 0;
         while(right < n)
         {
             mp[s[right]]++;
-            if((right - left + 1) - getMax(mp) > k)
+            if(mp[s[right]] > MaxFreq) MaxFreq = mp[s[right]]; 
+            if((right - left + 1) - MaxFreq > k)
             {
                 mp[s[left]]--;
                 left++;
