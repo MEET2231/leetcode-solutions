@@ -3,53 +3,23 @@ public:
     vector<int> maxSlidingWindow(vector<int>& nums, int k) {
         int n = nums.size();
         vector<int> ans;
-        int MAX = INT_MIN;
-        int MAX_idx = 0;
-        for(int i = 0;i<k;i++)
+        deque<int> dq;
+        for(int r = 0;r < n;r++)
         {
-            if(nums[i] >= MAX)
+            if(!dq.empty() && dq.front() < r-k+1)
             {
-                MAX = nums[i];
-                MAX_idx = i;
+                dq.pop_front();
+            }
+            while(!dq.empty() && nums[dq.back()] < nums[r])
+            {
+                dq.pop_back();
+            }
+            dq.push_back(r);
+            if(r >= k-1)
+            {
+                ans.push_back(nums[dq.front()]);
             }
         }
-        ans.push_back(MAX);
-
-        int left = 0,right = k-1;
-        while(right < n-1)
-        {
-            right++;
-            if(nums[right] > nums[MAX_idx])
-            {
-                MAX = nums[right];
-                MAX_idx = right;
-            }
-            if(nums[right] < nums[MAX_idx])
-            {
-                if(MAX_idx == left)
-                {
-                    MAX = nums[left+1];
-                    MAX_idx = left + 1;
-                    for(int i = left+2;i<=right;i++)
-                    {
-                        if(nums[i] >= MAX)
-                        {
-                            MAX = nums[i];
-                            MAX_idx = i;
-                        }
-                    }
-                }
-            }
-            if(nums[right] == nums[MAX_idx])
-            {
-                if(MAX_idx == left)
-                {
-                    MAX_idx = right;
-                }
-            }
-            left++;
-            ans.push_back(MAX);
-        }     
-        return ans; 
+        return ans;
     }
 };
