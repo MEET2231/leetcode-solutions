@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/MEET2231/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/MEET2231/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0399-evaluate-division](https://github.com/MEET2231/leetcode-solutions/tree/master/0399-evaluate-division) |
+| [0496-next-greater-element-i](https://github.com/MEET2231/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/MEET2231/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0721-accounts-merge](https://github.com/MEET2231/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/MEET2231/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/MEET2231/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/MEET2231/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/MEET2231/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/MEET2231/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0721-accounts-merge](https://github.com/MEET2231/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/MEET2231/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## String
@@ -196,9 +198,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/MEET2231/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/MEET2231/leetcode-solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/MEET2231/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/MEET2231/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/MEET2231/leetcode-solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/MEET2231/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/MEET2231/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
