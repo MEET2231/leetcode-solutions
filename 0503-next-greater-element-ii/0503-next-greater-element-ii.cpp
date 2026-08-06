@@ -8,28 +8,16 @@ public:
 
         for(int i = 2*n - 1;i>=0;--i)
         {
-            if(nums[i % n] < nums[st.top()])
+
+            while(!st.empty() && nums[st.top()] <= nums[i%n])
             {
-                ans[i % n] = nums[st. top()];
-                st.push(i % n);
+                st.pop();
             }
-            else
+            if(!st.empty())
             {
-                while(!st.empty() && nums[st.top()] <= nums[i%n])
-                {
-                    st.pop();
-                }
-                if(st.empty())
-                {
-                    st.push(i%n);
-                    // ans[i%n] = -1;
-                }
-                else
-                {
-                    ans[i%n] = nums[st.top()];
-                    st.push(i%n);
-                }
+                ans[i%n] = nums[st.top()];
             }
+            st.push(i%n);
         }
         return ans;
         
