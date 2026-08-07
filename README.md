@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/MEET2231/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/MEET2231/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/MEET2231/leetcode-solutions/tree/master/0127-word-ladder) |
+| [0146-lru-cache](https://github.com/MEET2231/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/MEET2231/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/MEET2231/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0721-accounts-merge](https://github.com/MEET2231/leetcode-solutions/tree/master/0721-accounts-merge) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/MEET2231/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/MEET2231/leetcode-solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/MEET2231/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Stack
@@ -232,4 +234,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/MEET2231/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/MEET2231/leetcode-solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/MEET2231/leetcode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
