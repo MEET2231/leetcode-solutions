@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/MEET2231/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MEET2231/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/MEET2231/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/MEET2231/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -246,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/MEET2231/leetcode-solutions/tree/master/0146-lru-cache) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/MEET2231/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
