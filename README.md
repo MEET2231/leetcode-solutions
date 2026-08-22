@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MEET2231/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/MEET2231/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
