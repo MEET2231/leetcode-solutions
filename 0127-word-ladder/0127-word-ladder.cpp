@@ -1,58 +1,42 @@
 class Solution {
 public:
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
+        unordered_set<string> s;
+        for(string& i : wordList)
+        {
+            s.insert(i);
+        }
+        if(s.find(endWord) == s.end()) return 0;
 
-        int n = wordList.size();
-        int m = wordList[0].size();
-        // existance check
-        bool flag = false;
-        for(int i = 0;i<n;i++)
-        {
-            if(wordList[i] == endWord) flag = true;
-        }
-        if(!flag) return 0;
-        // Filling that map
-        unordered_map<string,vector<string>> mp;
-        wordList.push_back(endWord);
-        for(int i = 0;i<n;i++)
-        {
-            for(int j = 0;j<m;j++)
-            {
-                string temp = wordList[i];
-                temp[j] = '*';
-                mp[temp].push_back(wordList[i]);
-            }
-        }
-        // ----------
-        set<string> visited;
-        visited.insert(beginWord);
         queue<string> q;
         q.push(beginWord);
-        int count = 1;
+        int level = 1;
         while(!q.empty())
         {
-            int s = q.size();
-            while(s--)
+            int n = q.size();
+            for(int i =0;i<n;++i)
             {
-                string word = q.front();q.pop();
-                if(word == endWord) return count;
-                for(int j = 0;j<m;j++)
+                string front = q.front();q.pop();
+                if(front == endWord) return level;
+                for(int id=0;id<front.size();++id)
                 {
-                    string temp = word;
-                    temp[j] = '*';
-                    for(auto &i : mp[temp])
+                    char temp = front[id];
+                    for(char a = 'a'; a <= 'z';++a)
                     {
-                        if(visited.find(i) == visited.end())
+                        front[id] = a;
+                        if(s.find(front) != s.end())
                         {
-                            q.push(i);
-                            visited.insert(i);
+                            q.push(front);
+                            s.erase(front);
                         }
                     }
+                    front[id] = temp;
                 }
             }
-            count++;
+            level++;
+
         }
         return 0;
-
+        
     }
 };
