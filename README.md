@@ -262,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/MEET2231/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/MEET2231/leetcode-solutions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
