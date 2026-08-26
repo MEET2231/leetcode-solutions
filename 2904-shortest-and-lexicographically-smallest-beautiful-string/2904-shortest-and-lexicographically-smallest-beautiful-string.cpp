@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-    string lax_check(string a,string b)
+    string lax_check(string& a,string b)
     {
         int len1 = a.length();
         int len2 = b.length();
