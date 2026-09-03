@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/MEET2231/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MEET2231/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/MEET2231/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/MEET2231/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MEET2231/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Depth-First Search
 |  |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/MEET2231/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/MEET2231/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/MEET2231/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/MEET2231/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MEET2231/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/MEET2231/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/MEET2231/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/MEET2231/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MEET2231/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/MEET2231/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/MEET2231/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Design
 |  |
 | ------- |
@@ -236,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/MEET2231/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MEET2231/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/MEET2231/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/MEET2231/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Math
 |  |
 | ------- |
@@ -280,4 +285,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/MEET2231/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/MEET2231/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+## Segment Tree
+|  |
+| ------- |
+| [2940-find-building-where-alice-and-bob-can-meet](https://github.com/MEET2231/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 <!---LeetCode Topics End-->
