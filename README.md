@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/MEET2231/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/MEET2231/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0399-evaluate-division](https://github.com/MEET2231/leetcode-solutions/tree/master/0399-evaluate-division) |
+| [0455-assign-cookies](https://github.com/MEET2231/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/MEET2231/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/MEET2231/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/MEET2231/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -187,11 +188,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/MEET2231/leetcode-solutions/tree/master/0015-3sum) |
+| [0455-assign-cookies](https://github.com/MEET2231/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/MEET2231/leetcode-solutions/tree/master/0721-accounts-merge) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MEET2231/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/MEET2231/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/MEET2231/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0765-couples-holding-hands](https://github.com/MEET2231/leetcode-solutions/tree/master/0765-couples-holding-hands) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/MEET2231/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/MEET2231/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/MEET2231/leetcode-solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MEET2231/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0455-assign-cookies](https://github.com/MEET2231/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/MEET2231/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 ## Sliding Window
 |  |
@@ -325,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-count-good-triplets-in-an-array](https://github.com/MEET2231/leetcode-solutions/tree/master/2179-count-good-triplets-in-an-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/MEET2231/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/MEET2231/leetcode-solutions/tree/master/3479-fruits-into-baskets-iii) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/MEET2231/leetcode-solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
