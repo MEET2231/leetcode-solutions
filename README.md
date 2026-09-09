@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/MEET2231/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MEET2231/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/MEET2231/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [2179-count-good-triplets-in-an-array](https://github.com/MEET2231/leetcode-solutions/tree/master/2179-count-good-triplets-in-an-array) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/MEET2231/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MEET2231/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3903-smallest-stable-index-i](https://github.com/MEET2231/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/MEET2231/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/MEET2231/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [2179-count-good-triplets-in-an-array](https://github.com/MEET2231/leetcode-solutions/tree/master/2179-count-good-triplets-in-an-array) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/MEET2231/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Heap (Priority Queue)
 |  |
@@ -291,13 +293,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [2179-count-good-triplets-in-an-array](https://github.com/MEET2231/leetcode-solutions/tree/master/2179-count-good-triplets-in-an-array) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/MEET2231/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
+| [2179-count-good-triplets-in-an-array](https://github.com/MEET2231/leetcode-solutions/tree/master/2179-count-good-triplets-in-an-array) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/MEET2231/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/MEET2231/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2179-count-good-triplets-in-an-array](https://github.com/MEET2231/leetcode-solutions/tree/master/2179-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2179-count-good-triplets-in-an-array](https://github.com/MEET2231/leetcode-solutions/tree/master/2179-count-good-triplets-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2179-count-good-triplets-in-an-array](https://github.com/MEET2231/leetcode-solutions/tree/master/2179-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
