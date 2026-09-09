@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/MEET2231/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/MEET2231/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/MEET2231/leetcode-solutions/tree/master/0827-making-a-large-island) |
+| [0860-lemonade-change](https://github.com/MEET2231/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [1020-number-of-enclaves](https://github.com/MEET2231/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MEET2231/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/MEET2231/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/MEET2231/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/MEET2231/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0765-couples-holding-hands](https://github.com/MEET2231/leetcode-solutions/tree/master/0765-couples-holding-hands) |
+| [0860-lemonade-change](https://github.com/MEET2231/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/MEET2231/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Two Pointers
 |  |
