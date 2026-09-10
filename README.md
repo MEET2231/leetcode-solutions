@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/MEET2231/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/MEET2231/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/MEET2231/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MEET2231/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -292,10 +293,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/MEET2231/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MEET2231/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/MEET2231/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MEET2231/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Bidirectional Search
 |  |
 | ------- |
