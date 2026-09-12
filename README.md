@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-count-good-triplets-in-an-array](https://github.com/MEET2231/leetcode-solutions/tree/master/2179-count-good-triplets-in-an-array) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/MEET2231/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MEET2231/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/MEET2231/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3477-fruits-into-baskets-ii](https://github.com/MEET2231/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/MEET2231/leetcode-solutions/tree/master/3479-fruits-into-baskets-iii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/MEET2231/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/MEET2231/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2179-count-good-triplets-in-an-array](https://github.com/MEET2231/leetcode-solutions/tree/master/2179-count-good-triplets-in-an-array) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/MEET2231/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/MEET2231/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3477-fruits-into-baskets-ii](https://github.com/MEET2231/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/MEET2231/leetcode-solutions/tree/master/3479-fruits-into-baskets-iii) |
 ## Heap (Priority Queue)
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/MEET2231/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/MEET2231/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/MEET2231/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/MEET2231/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Shortest Path
 |  |
 | ------- |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/MEET2231/leetcode-solutions/tree/master/0015-3sum) |
 | [0455-assign-cookies](https://github.com/MEET2231/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/MEET2231/leetcode-solutions/tree/master/0721-accounts-merge) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/MEET2231/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
