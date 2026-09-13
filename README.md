@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/MEET2231/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/MEET2231/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/MEET2231/leetcode-solutions/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/MEET2231/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/MEET2231/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [1020-number-of-enclaves](https://github.com/MEET2231/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MEET2231/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/MEET2231/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0778-swim-in-rising-water](https://github.com/MEET2231/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/MEET2231/leetcode-solutions/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/MEET2231/leetcode-solutions/tree/master/0835-image-overlap) |
 | [1020-number-of-enclaves](https://github.com/MEET2231/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MEET2231/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/MEET2231/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
