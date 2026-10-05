@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/MEET2231/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/MEET2231/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0721-accounts-merge](https://github.com/MEET2231/leetcode-solutions/tree/master/0721-accounts-merge) |
+| [0856-score-of-parentheses](https://github.com/MEET2231/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MEET2231/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/MEET2231/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/MEET2231/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/MEET2231/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/MEET2231/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/MEET2231/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/MEET2231/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/MEET2231/leetcode-solutions/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 ## Design
 |  |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/MEET2231/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/MEET2231/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 ## Recursion
 |  |
 | ------- |
