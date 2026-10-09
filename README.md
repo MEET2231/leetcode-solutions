@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MEET2231/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/MEET2231/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/MEET2231/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/MEET2231/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/MEET2231/leetcode-solutions/tree/master/0126-word-ladder-ii) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/MEET2231/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/MEET2231/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/MEET2231/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0678-valid-parenthesis-string](https://github.com/MEET2231/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/MEET2231/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/MEET2231/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/MEET2231/leetcode-solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MEET2231/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -378,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/MEET2231/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/MEET2231/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
